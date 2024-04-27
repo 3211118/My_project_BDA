@@ -1,3 +1,6 @@
+<p align="Center" ><img src="https://images.app.goo.gl/L7nRGbeAbLeUkXP57" height="350px" width ="350px"></p>
+⭐️ From [BANCO DE ALIMENTOS](https://www.bancodealimentos.org.co/)
+
 # My_project_BDA
 
 <a name="readme-top"></a>
@@ -6,6 +9,9 @@
 
 > De acuerdo con las visitas realizadas al Banco de Alimentos y los datos recibidos por parte del encargado de las bases de datos, logramos identificar el problema que presentan, en cuanto a las demoras en la entrega de los productos, debido a la falta de organización de las rutas programadas para cada uno de los vehículos.
 
+🛠  Tech Stack
+- 💼  COLAB
+- ⚙️  GitHub
 
 👤 **Authors**
 
@@ -22,3 +28,4 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
